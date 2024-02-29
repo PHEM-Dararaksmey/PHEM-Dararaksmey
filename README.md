@@ -4,7 +4,6 @@
 
 I'm an indie full-stack developer and building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.  from ideation and planning, all the way to finalizing the content with artistic touches. I publish that  on my github
 ### 🧰 Languages and Tools
-[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,cs,dotnet,react,redux,next,tailwind,nodejs,express,nestjs,graphql,postgres,py,figma,git,docker)](https://skillicons.dev)
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
