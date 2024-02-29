@@ -22,7 +22,7 @@ I'm an indie full-stack developer and building my version of the digital world o
 
 ### 📊 Stats
 
-![Phem dararaksmey's GitHub stats](https://github-readme-stats.vercel.app/api?username=PHEM-Dararaksmey&show_icons=true&theme=gruvbox) ## <a href="http://www.github.com/PHEM-Dararaksmey"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHEM-Dararaksmey&layout=compact&theme=dark"/></a>
+![Phem dararaksmey's GitHub stats](https://github-readme-stats.vercel.app/api?username=PHEM-Dararaksmey&show_icons=true&theme=gruvbox)  // <a href="http://www.github.com/PHEM-Dararaksmey"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHEM-Dararaksmey&layout=compact&theme=dark"/></a>
 
 
 ### ⏱️ Activty 
