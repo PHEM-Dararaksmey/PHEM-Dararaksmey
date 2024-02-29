@@ -22,12 +22,13 @@ I'm an indie full-stack developer and building my version of the digital world o
 
 ### 📊 Stats
 
-![Phem dararaksmey's GitHub stats](https://github-readme-stats.vercel.app/api?username=PHEM-Dararaksmey&show_icons=true&theme=gruvbox)  // <a href="http://www.github.com/PHEM-Dararaksmey"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHEM-Dararaksmey&layout=compact&theme=dark"/></a>
+![Phem dararaksmey's GitHub stats](https://github-readme-stats.vercel.app/api?username=PHEM-Dararaksmey&show_icons=true&theme=gruvbox)       <a href="http://www.github.com/PHEM-Dararaksmey"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHEM-Dararaksmey&layout=compact&theme=dark"/></a>
 
 
 ### ⏱️ Activty 
 
-/
+<a href="http://www.github.com/PHEM-Dararaksmey"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PHEM-Dararaksmey&theme=dark#gh-dark-mode-only&stroke=a855f7&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=a855f7&currStreakLabel=a855f7&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
+
 
 #
 ### 📖 Most use Language 
